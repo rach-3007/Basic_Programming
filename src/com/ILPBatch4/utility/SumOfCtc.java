@@ -14,5 +14,3 @@ public class SumOfCtc {
 			System.out.println("Sum : "+ sum);
 		}
 		}
-
-
